@@ -1,0 +1,8 @@
+C:\Users\arbaa\source\repos\CourseworkClasses\bin\Debug\CourseworkClasses.dll
+C:\Users\arbaa\source\repos\CourseworkClasses\bin\Debug\CourseworkClasses.pdb
+C:\Users\arbaa\source\repos\CourseworkClasses\obj\Debug\CourseworkClasses.csproj.AssemblyReference.cache
+C:\Users\arbaa\source\repos\CourseworkClasses\obj\Debug\CourseworkClasses.csproj.CoreCompileInputs.cache
+C:\Users\arbaa\source\repos\CourseworkClasses\obj\Debug\CourseworkClasses.dll
+C:\Users\arbaa\source\repos\CourseworkClasses\obj\Debug\CourseworkClasses.pdb
+C:\Users\arbaa\source\repos\CourseworkClasses\obj\Debug\CourseworkClasses.csproj.ResolveComReference.cache
+C:\Users\arbaa\source\repos\CourseworkClasses\obj\Debug\Interop.ADOX.dll
