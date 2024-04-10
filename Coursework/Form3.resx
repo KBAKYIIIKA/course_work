@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label17.Text" xml:space="preserve">
+    <value>    Общение по видеосвязи может повысить вовлечённость коллег в работу, потому что во время таких созвонов видно, чем занимается каждый участник, не отвлекается ли. В программе есть необходимый для этого раздел. В нём можно палнировать конференции и помимо этого их записывать. Ограничений по времени нет. Это довольно схожий аналог популярного приложения Zoom.
+</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>    Одна из функций, которая не должна остаться без внимания - это устранение неполадок. Программа выполнена довольно удобно, но всё же разработчики на всякий случай интегрировали способы решения возможных ошибок. Среди них: исправление ошибок в базе данных, полная синхронизация с сервером, удаление скачанных файлов, обновление файлов программы и испрваление русского языка в меню.
+</value>
+  </data>
+  <data name="label15.Text" xml:space="preserve">
+    <value>    Приложение предназначено для бизнеса, для эффективного его ведения необходимо правильно отслеживать действия потенциальных клиентов. Для этого в программе существует "база клиентов" со всей необходимой информацией. Крайне полезная функция "воронка продаж". Она позволяет наглядно увидеть, какое количество клиентов достигло определённого этапа сделки. Это важно для улучшения бизнеса, потому что, например, если на воронке видно, что на этапе установления контакта много клиентов, а после переговоров их процент значительно снижается, то стоит предлагать более выгодные условия клиентам или нанять более квалифицированных переговорщиков.
+</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>    В разделе "организация" присутсвуют следующие плитки: почта, оповещения, персонал, свойства оргазации, почтовые настройки и телефония. Здесь можно легко пользоваться настраиваемой почтой, не выходя из приложения. Функция "оповещения" уведомляет пользователя о изменениях непосредственно программы, например, если у пользователя закончился бесплатный срок пользования программой. Также можно наблюдать персонал организации, есть возможность посмотреть резюме, должноть, сферу деятельности и так далее. В свойствах органзации указана информация такая как: адрес, название компании, её электронный адрес, сфера бизнеса и так далее. Владелец фирмы может дополнять информацию в любой момент как про персонал, так и про организацию. В телефонии можно просматривать звонки, совершённые каким-либо сотрудником компании.
+</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>    Блок "склад и клиентская база" содержит в себе функции, необходимые для работы с базой клиентов, закупкой товара, заказами. Можно заметить, что плитка "база клиентов" есть и в главном меню программы. Пользователь может удалить выбранную плитку, нажав на неё правой кнопкой мыши и выбрав соответсвующий пункт "удалить".
+ </value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>    Во вкладке "моя организация" открывается новое меню. Чтобы перейти в него, необходимо для начала создать новую организацию, если ты владелец, или же чтобы тебя в неё пригласили. В этом меню есть три блока: организация, склад и клиентская база, финансы.
+
+</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>    Блок "контакты содерижт в себе" функции, связанные с взаимодействием непосредственно с людьми. Сюда можно отнести как и коллег, так и клиентов бизнеса. Он содержит следёющие вкладки: база клиентов, личная анкета, задать вопрос, пригласить сотрудника, добавить клиента, почта. В базе клиентов содержится таблица со всей необходимой для работы с ними информацией. Также можно выделить "воронку продаж", о ней будет написано попозже. Чтобы эффективно взаимодействовать с сотрудниками, знать о них как можно больше информации, каждому члену организации необходимо заполнить личную анкету, в которой должна солержаться главная информация о сотруднике. Функция "задать вопрос" позволяет обратиться к коллегам за советом. Крайне полезная функция, потому что она позволяет более опытным сотрудникам учить новичков и повышать эффективность их работы. Также можно пригласить сотрудника, который уже зарегистрирован в системе, в свою организацию в соответствующей вкладке. Если база клиентов нам позволяет только рассматривать и обрабатывать информацию, то функция "добавить клиента" позволяет заполнять эту базу людьми, которые что-то приобретают у данной организации. Также в системе имеется своя простая система почты, которая находится в отдельной вкладке. С помощью неё можно удобно вести переписку не выходя из программы.</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>    Следующий блок с фукнциями - работа.  В нём есть такие панельки как: назначить дело, календарь, назначить задачу, напоминания, таблицы, поиск. С помощью функций "Назначить дело" и "Назначить задачу" управляющий может поручить какое-то задание сотруднику и ему придёт уведомление. В календаре можно отслеживать список дел в различных форматах, можно также включить напоминания в соответстующей вкладке. В поиске можно найти всё, что пользователь вводил в систему.</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>    Блок "коммункиации" позволяет пользователю общаться с коллегами и не только. Можно позвонить и отправить SMS от лица компании, осущсествить рассылку по электронной почте, провести видео-конференцию. Также в этом блоке присутсвуют общие чаты. Можно создать свой простой веб-сайт для организации.</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>    Снизу меню есть несколько вспомагательных функций: меню, биллинг, настройки, данные, починить, Web, Аналитика, Mac OS, iOS, Android, партнёрам, выход. Меню позволяет настраивать главное меню, биллинг показывает течение денег в организации, её затраты и прибыль. Данные отображают какие действия и когда совершил пользователь в программме. "Починить" может исправить некоторые неполалки в программе. Web, Mac OS, iOS, Android позволяют приложению на другую платформу. Раздел "Партнёрам" предлагает пользователям программы взаимовыгодные сотрудничество.</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>    Блок "Начало работы" помогает пользователю приступить к оформлению своей организации в CRM-системе. Он содержит в себе такие вкладки как: моя организация, видео-уроки, справка, сайт "простой бизнес", окно агента. Для более быстрого освоения системы рекомендуется посмотреть все видео уроки. Во вкладке "Моя организация" представлен весь функционал, необходимый для управления этой организации. Он октрывается после создания в системе новой организации. Перейдя по вкладке "справка" пользователь попадает на сайт, в котором подробно расписаны ответы на почти все возможные вопросы, связанные с системой. Сайт "Простой бизнес" - это сайт, на котором можно пройти регистрацию, чтобы получить доступ к приложению. Окно агента - ещё одно меню. Оно выглядит более упрощённо и имеет несколько дополнительных функций по работе с системой.</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>    CRM-система «Простой бизнес» – это облачный сервис для построения единого информационного пространства бизнеса, который совмещает в себе актуальные инструменты управления проектами, задачами, персоналом, счетами, продажами и другое.
+
+
+</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>    Функции системы Простой бизнес:
+1)Управление клиентами;
+2)Управление проектами и задачами;
+3)Управление персоналом;
+4)Документооборот;
+5)Коммуникации;
+6)Бухгалтерия и складской учет;
+7)Аналитика.
+
+
+
+</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>    Чтобы начать пользоваться CRM-системой "Простой бизнес", необходимо зайти на официальный сайт компании https://www.prostoy.ru/, зарегистрироваться, указав свой номер телефона и почту, после чего на почту придёт письмо с логином, паролем, ссылкой на установку и инструкцией. Программа предоставляется пользователю бесплатно на 10 дней, чтобы он мог испробовать её возможности.
+
+
+</value>
+  </data>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>118, 17</value>
+  </metadata>
+</root>
